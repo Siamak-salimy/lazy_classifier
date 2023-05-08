@@ -19,5 +19,7 @@ Or download the tarball:</br>
 $ curl -OJL https://github.com/shankarpandala/lazypredict/tarball/master</br>
 Once you have a copy of the source, you can install it with:
 
-$ python setup.py install
-![image](https://user-images.githubusercontent.com/34867846/236729197-4b406e94-4b99-4410-91f6-3aba314ac134.png)
+$ python setup.py install </br>
+
+# Output
+![image](https://user-images.githubusercontent.com/34867846/236729386-77b179a6-2cf2-43a6-9afb-3fc30aa280c5.png)
